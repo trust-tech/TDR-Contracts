@@ -1,5 +1,5 @@
 ![trust-tech.org](trust-tech.jpg)
-# TDR(Trust Decentralized Reserve) Contracts v0.1 (alpha)
+# TDR(Trust Decentralized Reserve) Contracts 0.1
 
 We introduced TDR(Trust Decentralized Reserve), a standard Smart Token with built-in convertibility directly through the smart contracts, to solve the problem of liquidity and price discovery without any third or even second party, it can also be used to purchase TTT at a much more preferable price later at Pre-TSD Beta(b). TDR is distributed at Pre-TSD Alpha(α) and it utilizes an innovative token "Connector" method to enable formulaic price-calculation and continuous liquidity to/from all tokens in the Trust Decentralized Reserve, without needing to match two parties in an exchange. Smart Tokens interconnect to form token liquidity networks, allowing user-generated cryptocurrencies to thrive. For more information, visit the [website](http://trust-tech.org) and read the Token Distribution Economics Blackpaper [Blackpaper](https://github.com/trust-tech/Blackpaper).
 
